@@ -1,0 +1,16 @@
+{
+  "emps": [
+    {
+      "name": "Abdul",
+      "org": "hp",
+      "salary": 55000,
+      "id": "79df"
+    },
+    {
+      "id": "789a",
+      "name": "Ramu",
+      "org": "TCS",
+      "salary": "87000"
+    }
+  ]
+}
